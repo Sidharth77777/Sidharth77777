@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sidharth K S</h1>
 <h3 align="center">ECE Student | Future Full-Stack & Blockchain Engineer</h3>
 
-- 🔭 I’m currently working on [Voting dApp](https://github.com/Sidharth77777/Voting-dApp)
-
 - 🌱 I’m currently learning **Full-stack development with the MERN Stack & Blockchain technologies**
 
 - 💬 Ask me about **Ask me about Smart Contracts, DApps, and Full-Stack Projects**
