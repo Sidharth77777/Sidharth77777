@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **Smart Contracts, DApps, and Full-Stack Projects**
 
-- 📫 How to reach me **sidharthks2004@gmail.com , cryptosidweb3@gmail.com**
+- 📫 How to reach me **sidharthks2004@gmail.com** || **cryptosidweb3@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sidharth-ks1/](https://www.linkedin.com/in/sidharth-ks1/)
+- 📄 Know about my experiences in [LinkedIn](https://www.linkedin.com/in/sidharth-ks1/)
 
 - ⚡ Fun fact **I convert JavaScript to TypeScript… and suddenly I'm a better developer 😉**
 
